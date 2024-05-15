@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#events-list {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#events-list div {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+#events-list h3 {
+  margin-top: 0;
+}
